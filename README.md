@@ -3,8 +3,6 @@ About Me:
 
 I'm a passionate data scientist with a knack for predictive analytics
 
-![image](https://github.com/user-attachments/assets/2b818b42-295b-42f2-9bc0-f33a37a613c9)
-
 <!--
 **Bandersnatch09/Bandersnatch09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
