@@ -4,6 +4,11 @@ About Me:
 I'm a passionate data scientist with a knack for predictive analytics
 
 
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Bandersnatch09&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
 ### My Tools for Data Manipulation & Visualisation:
 | Conda | Jupyter | MySQL | Postgres | SQLite | Matplotlib |
 |----------|----------|----------|----------|----------|----------|
