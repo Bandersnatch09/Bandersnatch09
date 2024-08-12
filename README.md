@@ -15,6 +15,9 @@ I'm a passionate data scientist with a knack for predictive analytics
 | Pytorch | Selenium | Numpy | Pandas | Sklearn | OpenCV |
 |----------|----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bandersnatch09)](https://git.io/streak-stats)
+
 <!--
 **Bandersnatch09/Bandersnatch09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
